@@ -25,7 +25,6 @@ function sortByHeight(arr) {
 	for (let i = 0; i < ind.length; i++) {
 		nArr.splice(ind[i], 0, -1)
 	}
-
 	return nArr
 }
 
